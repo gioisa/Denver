@@ -1,0 +1,18 @@
+D:\Data\Framework\Denver.MicroFramework\Denver. Model\bin\Debug\netcoreapp2.2\Denver.Model.deps.json
+D:\Data\Framework\Denver.MicroFramework\Denver. Model\bin\Debug\netcoreapp2.2\Denver.Model.dll
+D:\Data\Framework\Denver.MicroFramework\Denver. Model\bin\Debug\netcoreapp2.2\Denver.Model.pdb
+D:\Data\Framework\Denver.MicroFramework\Denver. Model\obj\Debug\netcoreapp2.2\Denver.Model.csproj.CoreCompileInputs.cache
+D:\Data\Framework\Denver.MicroFramework\Denver. Model\obj\Debug\netcoreapp2.2\Denver.Model.AssemblyInfoInputs.cache
+D:\Data\Framework\Denver.MicroFramework\Denver. Model\obj\Debug\netcoreapp2.2\Denver.Model.AssemblyInfo.cs
+D:\Data\Framework\Denver.MicroFramework\Denver. Model\obj\Debug\netcoreapp2.2\Denver.Model.dll
+D:\Data\Framework\Denver.MicroFramework\Denver. Model\obj\Debug\netcoreapp2.2\Denver.Model.pdb
+D:\Data\Framework\Denver.MicroFramework\Denver. Model\obj\Debug\netcoreapp2.2\Denver.Model.csprojAssemblyReference.cache
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver. Model\bin\Debug\netcoreapp2.2\Denver.Model.deps.json
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver. Model\bin\Debug\netcoreapp2.2\Denver.Model.dll
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver. Model\bin\Debug\netcoreapp2.2\Denver.Model.pdb
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver. Model\obj\Debug\netcoreapp2.2\Denver.Model.csprojAssemblyReference.cache
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver. Model\obj\Debug\netcoreapp2.2\Denver.Model.csproj.CoreCompileInputs.cache
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver. Model\obj\Debug\netcoreapp2.2\Denver.Model.AssemblyInfoInputs.cache
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver. Model\obj\Debug\netcoreapp2.2\Denver.Model.AssemblyInfo.cs
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver. Model\obj\Debug\netcoreapp2.2\Denver.Model.dll
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver. Model\obj\Debug\netcoreapp2.2\Denver.Model.pdb

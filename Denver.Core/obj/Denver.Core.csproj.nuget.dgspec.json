@@ -1,0 +1,182 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Data\\.NET CORE PROJECT\\Denver.MicroFramework\\Denver.Core\\Denver.Core.csproj": {}
+  },
+  "projects": {
+    "D:\\Data\\.NET CORE PROJECT\\Denver.MicroFramework\\Denver. Model\\Denver.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Data\\.NET CORE PROJECT\\Denver.MicroFramework\\Denver. Model\\Denver.Model.csproj",
+        "projectName": "Denver.Model",
+        "projectPath": "D:\\Data\\.NET CORE PROJECT\\Denver.MicroFramework\\Denver. Model\\Denver.Model.csproj",
+        "packagesPath": "C:\\Users\\Zephyr\\.nuget\\packages\\",
+        "outputPath": "D:\\Data\\.NET CORE PROJECT\\Denver.MicroFramework\\Denver. Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Zephyr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik UI for ASP.NET Core R1 2019\\wrappers\\aspnetcore\\Binaries\\AspNet.Core": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Data\\.NET CORE PROJECT\\Denver.MicroFramework\\Denver.Core\\Denver.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Data\\.NET CORE PROJECT\\Denver.MicroFramework\\Denver.Core\\Denver.Core.csproj",
+        "projectName": "Denver.Core",
+        "projectPath": "D:\\Data\\.NET CORE PROJECT\\Denver.MicroFramework\\Denver.Core\\Denver.Core.csproj",
+        "packagesPath": "C:\\Users\\Zephyr\\.nuget\\packages\\",
+        "outputPath": "D:\\Data\\.NET CORE PROJECT\\Denver.MicroFramework\\Denver.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Zephyr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik UI for ASP.NET Core R1 2019\\wrappers\\aspnetcore\\Binaries\\AspNet.Core": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Data\\.NET CORE PROJECT\\Denver.MicroFramework\\Denver. Model\\Denver.Model.csproj": {
+                "projectPath": "D:\\Data\\.NET CORE PROJECT\\Denver.MicroFramework\\Denver. Model\\Denver.Model.csproj"
+              },
+              "D:\\Data\\.NET CORE PROJECT\\Denver.MicroFramework\\Denver.EntityFrameworkCore\\Denver.EntityFrameworkCore.csproj": {
+                "projectPath": "D:\\Data\\.NET CORE PROJECT\\Denver.MicroFramework\\Denver.EntityFrameworkCore\\Denver.EntityFrameworkCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Data\\.NET CORE PROJECT\\Denver.MicroFramework\\Denver.EntityFrameworkCore\\Denver.EntityFrameworkCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Data\\.NET CORE PROJECT\\Denver.MicroFramework\\Denver.EntityFrameworkCore\\Denver.EntityFrameworkCore.csproj",
+        "projectName": "Denver.EntityFrameworkCore",
+        "projectPath": "D:\\Data\\.NET CORE PROJECT\\Denver.MicroFramework\\Denver.EntityFrameworkCore\\Denver.EntityFrameworkCore.csproj",
+        "packagesPath": "C:\\Users\\Zephyr\\.nuget\\packages\\",
+        "outputPath": "D:\\Data\\.NET CORE PROJECT\\Denver.MicroFramework\\Denver.EntityFrameworkCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Zephyr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik UI for ASP.NET Core R1 2019\\wrappers\\aspnetcore\\Binaries\\AspNet.Core": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Data\\.NET CORE PROJECT\\Denver.MicroFramework\\Denver. Model\\Denver.Model.csproj": {
+                "projectPath": "D:\\Data\\.NET CORE PROJECT\\Denver.MicroFramework\\Denver. Model\\Denver.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

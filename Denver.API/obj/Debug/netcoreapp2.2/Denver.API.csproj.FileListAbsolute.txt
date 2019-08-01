@@ -1,0 +1,42 @@
+D:\Data\Framework\Denver.MicroFramework\Denver.API\bin\Debug\netcoreapp2.2\Denver.API.deps.json
+D:\Data\Framework\Denver.MicroFramework\Denver.API\bin\Debug\netcoreapp2.2\Denver.API.runtimeconfig.json
+D:\Data\Framework\Denver.MicroFramework\Denver.API\bin\Debug\netcoreapp2.2\Denver.API.runtimeconfig.dev.json
+D:\Data\Framework\Denver.MicroFramework\Denver.API\bin\Debug\netcoreapp2.2\Denver.API.dll
+D:\Data\Framework\Denver.MicroFramework\Denver.API\bin\Debug\netcoreapp2.2\Denver.API.pdb
+D:\Data\Framework\Denver.MicroFramework\Denver.API\bin\Debug\netcoreapp2.2\Denver.Core.dll
+D:\Data\Framework\Denver.MicroFramework\Denver.API\bin\Debug\netcoreapp2.2\Denver.EntityFrameworkCore.dll
+D:\Data\Framework\Denver.MicroFramework\Denver.API\bin\Debug\netcoreapp2.2\Denver.Core.pdb
+D:\Data\Framework\Denver.MicroFramework\Denver.API\bin\Debug\netcoreapp2.2\Denver.EntityFrameworkCore.pdb
+D:\Data\Framework\Denver.MicroFramework\Denver.API\obj\Debug\netcoreapp2.2\Denver.API.csprojAssemblyReference.cache
+D:\Data\Framework\Denver.MicroFramework\Denver.API\obj\Debug\netcoreapp2.2\Denver.API.csproj.CoreCompileInputs.cache
+D:\Data\Framework\Denver.MicroFramework\Denver.API\obj\Debug\netcoreapp2.2\Denver.API.RazorAssemblyInfo.cache
+D:\Data\Framework\Denver.MicroFramework\Denver.API\obj\Debug\netcoreapp2.2\Denver.API.RazorAssemblyInfo.cs
+D:\Data\Framework\Denver.MicroFramework\Denver.API\obj\Debug\netcoreapp2.2\Denver.API.AssemblyInfoInputs.cache
+D:\Data\Framework\Denver.MicroFramework\Denver.API\obj\Debug\netcoreapp2.2\Denver.API.AssemblyInfo.cs
+D:\Data\Framework\Denver.MicroFramework\Denver.API\obj\Debug\netcoreapp2.2\Denver.API.RazorTargetAssemblyInfo.cache
+D:\Data\Framework\Denver.MicroFramework\Denver.API\obj\Debug\netcoreapp2.2\Denver.API.csproj.CopyComplete
+D:\Data\Framework\Denver.MicroFramework\Denver.API\obj\Debug\netcoreapp2.2\Denver.API.dll
+D:\Data\Framework\Denver.MicroFramework\Denver.API\obj\Debug\netcoreapp2.2\Denver.API.pdb
+D:\Data\Framework\Denver.MicroFramework\Denver.API\bin\Debug\netcoreapp2.2\Denver.Model.dll
+D:\Data\Framework\Denver.MicroFramework\Denver.API\bin\Debug\netcoreapp2.2\Denver.Model.pdb
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.API\bin\Debug\netcoreapp2.2\Denver.API.deps.json
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.API\bin\Debug\netcoreapp2.2\Denver.API.runtimeconfig.json
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.API\bin\Debug\netcoreapp2.2\Denver.API.runtimeconfig.dev.json
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.API\bin\Debug\netcoreapp2.2\Denver.API.dll
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.API\bin\Debug\netcoreapp2.2\Denver.API.pdb
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.API\bin\Debug\netcoreapp2.2\Denver.Core.dll
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.API\bin\Debug\netcoreapp2.2\Denver.EntityFrameworkCore.dll
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.API\bin\Debug\netcoreapp2.2\Denver.Model.dll
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.API\bin\Debug\netcoreapp2.2\Denver.Model.pdb
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.API\bin\Debug\netcoreapp2.2\Denver.Core.pdb
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.API\bin\Debug\netcoreapp2.2\Denver.EntityFrameworkCore.pdb
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.API\obj\Debug\netcoreapp2.2\Denver.API.csprojAssemblyReference.cache
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.API\obj\Debug\netcoreapp2.2\Denver.API.csproj.CoreCompileInputs.cache
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.API\obj\Debug\netcoreapp2.2\Denver.API.RazorAssemblyInfo.cache
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.API\obj\Debug\netcoreapp2.2\Denver.API.RazorAssemblyInfo.cs
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.API\obj\Debug\netcoreapp2.2\Denver.API.AssemblyInfoInputs.cache
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.API\obj\Debug\netcoreapp2.2\Denver.API.AssemblyInfo.cs
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.API\obj\Debug\netcoreapp2.2\Denver.API.RazorTargetAssemblyInfo.cache
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.API\obj\Debug\netcoreapp2.2\Denver.API.csproj.CopyComplete
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.API\obj\Debug\netcoreapp2.2\Denver.API.dll
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.API\obj\Debug\netcoreapp2.2\Denver.API.pdb

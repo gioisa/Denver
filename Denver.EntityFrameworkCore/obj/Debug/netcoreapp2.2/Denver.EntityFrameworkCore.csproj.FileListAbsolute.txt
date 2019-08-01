@@ -1,0 +1,24 @@
+D:\Data\Framework\Denver.MicroFramework\Denver.EntityFrameworkCore\bin\Debug\netcoreapp2.2\Denver.EntityFrameworkCore.deps.json
+D:\Data\Framework\Denver.MicroFramework\Denver.EntityFrameworkCore\bin\Debug\netcoreapp2.2\Denver.EntityFrameworkCore.dll
+D:\Data\Framework\Denver.MicroFramework\Denver.EntityFrameworkCore\obj\Debug\netcoreapp2.2\Denver.EntityFrameworkCore.csprojAssemblyReference.cache
+D:\Data\Framework\Denver.MicroFramework\Denver.EntityFrameworkCore\obj\Debug\netcoreapp2.2\Denver.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+D:\Data\Framework\Denver.MicroFramework\Denver.EntityFrameworkCore\obj\Debug\netcoreapp2.2\Denver.EntityFrameworkCore.AssemblyInfoInputs.cache
+D:\Data\Framework\Denver.MicroFramework\Denver.EntityFrameworkCore\obj\Debug\netcoreapp2.2\Denver.EntityFrameworkCore.AssemblyInfo.cs
+D:\Data\Framework\Denver.MicroFramework\Denver.EntityFrameworkCore\bin\Debug\netcoreapp2.2\Denver.EntityFrameworkCore.pdb
+D:\Data\Framework\Denver.MicroFramework\Denver.EntityFrameworkCore\obj\Debug\netcoreapp2.2\Denver.EntityFrameworkCore.csproj.CopyComplete
+D:\Data\Framework\Denver.MicroFramework\Denver.EntityFrameworkCore\obj\Debug\netcoreapp2.2\Denver.EntityFrameworkCore.dll
+D:\Data\Framework\Denver.MicroFramework\Denver.EntityFrameworkCore\obj\Debug\netcoreapp2.2\Denver.EntityFrameworkCore.pdb
+D:\Data\Framework\Denver.MicroFramework\Denver.EntityFrameworkCore\bin\Debug\netcoreapp2.2\Denver.Model.dll
+D:\Data\Framework\Denver.MicroFramework\Denver.EntityFrameworkCore\bin\Debug\netcoreapp2.2\Denver.Model.pdb
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.EntityFrameworkCore\bin\Debug\netcoreapp2.2\Denver.EntityFrameworkCore.deps.json
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.EntityFrameworkCore\bin\Debug\netcoreapp2.2\Denver.EntityFrameworkCore.dll
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.EntityFrameworkCore\bin\Debug\netcoreapp2.2\Denver.EntityFrameworkCore.pdb
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.EntityFrameworkCore\bin\Debug\netcoreapp2.2\Denver.Model.dll
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.EntityFrameworkCore\bin\Debug\netcoreapp2.2\Denver.Model.pdb
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.EntityFrameworkCore\obj\Debug\netcoreapp2.2\Denver.EntityFrameworkCore.csprojAssemblyReference.cache
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.EntityFrameworkCore\obj\Debug\netcoreapp2.2\Denver.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.EntityFrameworkCore\obj\Debug\netcoreapp2.2\Denver.EntityFrameworkCore.AssemblyInfoInputs.cache
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.EntityFrameworkCore\obj\Debug\netcoreapp2.2\Denver.EntityFrameworkCore.AssemblyInfo.cs
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.EntityFrameworkCore\obj\Debug\netcoreapp2.2\Denver.EntityFrameworkCore.csproj.CopyComplete
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.EntityFrameworkCore\obj\Debug\netcoreapp2.2\Denver.EntityFrameworkCore.dll
+D:\Data\.NET CORE PROJECT\Denver.MicroFramework\Denver.EntityFrameworkCore\obj\Debug\netcoreapp2.2\Denver.EntityFrameworkCore.pdb
